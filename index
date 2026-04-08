@@ -844,7 +844,8 @@ footer {
       </p>
       <div class="hero-btns fade-up d-3">
         <a href="#projects" class="btn btn-primary">Explore Work</a>
-        <a href="#contact" class="btn btn-secondary">Get in touch</a>
+        <a href="resume.pdf" target="_blank" class="btn btn-secondary">Preview Resume ↗</a>
+        <a href="resume.pdf" download="Joe_Ranjith_Resume.pdf" class="btn btn-secondary" title="Download Resume">↓ Download</a>
       </div>
     </div>
   </section>
